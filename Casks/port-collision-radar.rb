@@ -1,6 +1,6 @@
 cask "port-collision-radar" do
-  version "1.0.1"
-  sha256 "f335a7c349bebc5d88145651a536ba8f13fe024f0c8889e8c23b7b33b5dffc9b"
+  version "1.0.2"
+  sha256 "9451db4e30213479fb916b940d85a608d295912f1d63e5bb7635c3645931de79"
 
   url "https://github.com/fran-mora/port-collision-radar/releases/download/v#{version}/Port-Collision-Radar-#{version}-universal.dmg"
   name "Port Collision Radar"
